@@ -66,8 +66,6 @@ Full-stack clinic platform with a responsive marketing site, appointment booking
 
 QR-based customer feedback product that routes positive experiences to Google Reviews and captures lower ratings privately through a configurable feedback workflow.
 
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://scan2review.vercel.app)
-
 **Focus:** React interfaces, Express APIs, SQLite, admin dashboards, and customer-experience design.
 
 ## More projects
@@ -86,23 +84,15 @@ QR-based customer feedback product that routes positive experiences to Google Re
 - Comfort working across backend, frontend, data, and deployment concerns.
 - Curiosity, iteration, and a willingness to learn unfamiliar tools when the project requires them.
 
-## GitHub activity
+## Where I can contribute
 
-<div align="center">
+| Role focus | Relevant strengths |
+|---|---|
+| **AI / LLM Engineering** | RAG pipelines, LangGraph workflows, retrieval quality, reranking, guardrails, and evaluation |
+| **Python Backend Engineering** | FastAPI services, REST APIs, authentication, validation, document processing, and databases |
+| **Full-Stack Product Development** | React and Next.js interfaces, Node.js services, dashboards, business workflows, and deployment |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asadnaeem23&show_icons=true&hide_border=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Asadnaeem23&show_icons=true&hide_border=true&theme=default" />
-  <img alt="Asadullah Naeem's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Asadnaeem23&show_icons=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadnaeem23&layout=compact&hide_border=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadnaeem23&layout=compact&hide_border=true&theme=default" />
-  <img alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadnaeem23&layout=compact&hide_border=true" />
-</picture>
-
-</div>
+I work best on projects where strong engineering and practical product thinking matter equally.
 
 ---
 
