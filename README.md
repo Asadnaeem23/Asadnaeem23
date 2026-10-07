@@ -62,14 +62,15 @@ Full-stack clinic platform with a responsive marketing site, appointment booking
 
 **Focus:** End-to-end product development, business workflows, booking UX, and AI-assisted customer support.
 
-### [Scan2Review](https://github.com/Asadnaeem23/scan2review)
+### [Multi-Agent Clinic Receptionist](https://github.com/Asadnaeem23/multi-agent-clinic-bot)
 
-QR-based customer feedback product that routes positive experiences to Google Reviews and captures lower ratings privately through a configurable feedback workflow.
+AI-powered virtual receptionist with LangGraph routing, configurable guardrails, appointment tools, human handoff, live chat monitoring, and per-agent LLM configuration.
 
-**Focus:** React interfaces, Express APIs, SQLite, admin dashboards, and customer-experience design.
+**Focus:** Multi-agent orchestration, FastAPI, tool-calling, guardrails, stateful workflows, and operational dashboards.
 
 ## More projects
 
+- [Scan2Review](https://github.com/Asadnaeem23/scan2review) — QR-based feedback workflows, a configurable admin dashboard, and Google Reviews routing.
 - [Corrective RAG Assistant](https://github.com/Asadnaeem23/CRAG-LANGGRAPH) — context grading, sentence filtering, and web-search fallback with LangGraph.
 - [FastAPI Blog App](https://github.com/Asadnaeem23/BlogApp-FastAPI) — JWT authentication, async SQLAlchemy, protected CRUD operations, pagination, and templates.
 - [Customer Churn Detection](https://github.com/Asadnaeem23/Customer-Churn-Detection-Model) — feature engineering, classification, model evaluation, parallel processing, and a Gradio interface.
